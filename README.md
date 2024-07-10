@@ -8,11 +8,11 @@
 
 <div align="center">
  
-👀 I’m interested in app/web development
+👀 I’m interested in Software/Hardware development
 
-🌱 My Tech Stack is HTML, CSS, JS, C, C++, Verilog HDL, and MySQL.
+🌱 My Tech Stack is HTML, CSS, JS, C, C++, Vivado, Verilog HDL, and MySQL.
 
-📫 How to reach me: ajaiff18@gmail.com
+📫 How to reach me: <a href="mailto:ajaiff18@gmail.com">ajaiff18@gmail.com</a>
 
 </div>
 
@@ -20,11 +20,11 @@
   <a href="mailto:ajaiff18@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://www.linkedin.com/in/ajaiv" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href=" " target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 
@@ -33,7 +33,7 @@
 <h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,mysql,c,cpp" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,mysql,c,cpp,vivado" /><br>
 </div>
 
 <br/>

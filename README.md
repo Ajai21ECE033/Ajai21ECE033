@@ -10,7 +10,7 @@
  
 👀 I’m interested in Software/Hardware development
 
-🌱 My Tech Stack is HTML, CSS, JS, C, C++, Vivado, Verilog HDL, and MySQL.
+🌱 My Tech Stack is HTML, CSS, JS, C, C++, Vivado and MySQL.
 
 📫 How to reach me: <a href="mailto:ajaiff18@gmail.com">ajaiff18@gmail.com</a>
 
